@@ -9,12 +9,11 @@ public class A7 {
     -Jhoan Nieto
     -Valentina Rojas
     -Zooyin Perez
-    
     */
     
     public static void main(String[] args) {
         
-        System.out.println("Semana");
+      
         
         
     }
